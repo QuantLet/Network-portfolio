@@ -6,3 +6,4 @@ Output: 'CumuWealth_race.mp4'
 
 Packages: bar_chart_race
           
+Tutorial: https://www.dexplo.org/bar_chart_race/
